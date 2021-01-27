@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quote-app/static/css/main.45e5726a.chunk.css",
+    "main.js": "/quote-app/static/js/main.4e6581ef.chunk.js",
+    "main.js.map": "/quote-app/static/js/main.4e6581ef.chunk.js.map",
+    "runtime-main.js": "/quote-app/static/js/runtime-main.af4902bb.js",
+    "runtime-main.js.map": "/quote-app/static/js/runtime-main.af4902bb.js.map",
+    "static/css/2.8757ddda.chunk.css": "/quote-app/static/css/2.8757ddda.chunk.css",
+    "static/js/2.b41ea954.chunk.js": "/quote-app/static/js/2.b41ea954.chunk.js",
+    "static/js/2.b41ea954.chunk.js.map": "/quote-app/static/js/2.b41ea954.chunk.js.map",
+    "static/js/3.a0ed3f1a.chunk.js": "/quote-app/static/js/3.a0ed3f1a.chunk.js",
+    "static/js/3.a0ed3f1a.chunk.js.map": "/quote-app/static/js/3.a0ed3f1a.chunk.js.map",
+    "index.html": "/quote-app/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "/quote-app/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.45e5726a.chunk.css.map": "/quote-app/static/css/main.45e5726a.chunk.css.map",
+    "static/js/2.b41ea954.chunk.js.LICENSE.txt": "/quote-app/static/js/2.b41ea954.chunk.js.LICENSE.txt",
+    "static/media/logo.57573394.png": "/quote-app/static/media/logo.57573394.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af4902bb.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.b41ea954.chunk.js",
+    "static/css/main.45e5726a.chunk.css",
+    "static/js/main.4e6581ef.chunk.js"
+  ]
+}
