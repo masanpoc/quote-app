@@ -1,0 +1,41 @@
+.quote {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.4em;
+    text-align: left;
+    padding-top: 15px;
+}
+
+.disp {
+    display: flex;
+    flex-direction: row;
+    justify-items: stretch;
+    /* height: 80%; */
+}
+
+i {
+    font-size: 4em;
+    color: gray;
+    padding-right: 20px;
+    
+}
+
+blockquote {
+	border: none;
+    quotes: "\201C" "\201D";
+    display: inline-block;
+    /* text-indent: -0.85em; */
+}
+
+blockquote p:before { 
+    /* content: open-quote; */
+    /* font-weight: bold; */
+    /* visibility: hidden; */
+} 
+blockquote p:after { 
+    content: "\201D";
+    font-weight: bold;
+}
+
+.spacing {
+    margin-bottom: 0;
+}
